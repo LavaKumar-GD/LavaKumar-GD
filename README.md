@@ -2,7 +2,8 @@
 - 👀 I’m interested in Graphic Design and Web Development
 - 🌱 I’m currently learning C# and Maya
 - 📫 How to reach me -- +91 7661907426
-  My Professional Skills are 
+  
+My Professional Skills are 
 1. Adobe Photoshop
 2. Adobe Illustrator
 3. Indesign

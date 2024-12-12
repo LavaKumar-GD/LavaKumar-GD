@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LavaKumar-GD
+- 👋 Hi, I’m Lavakumar. Setti
 - 👀 I’m interested in Graphic Design and Web Development
 - 🌱 I’m currently learning C# and Maya
 - 📫 How to reach me -- +91 7661907426
